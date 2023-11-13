@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Zac!
 
-####I love working on projects to help improve and change the 🌎.
+##I love working on projects to help improve and change the 🌎.
 
 - 🔭 I’m currently working on ...
     - Being the best Dev III ever at [Compassion International](https://www.compassion.com/)
