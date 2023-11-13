@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Zac!
 
-<!--
-**OOCAZ/OOCAZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I love working on projects to help improve and change the 🌎.
 
 - 🔭 I’m currently working on ...
 
