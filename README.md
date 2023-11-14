@@ -16,4 +16,3 @@
     - I have an [IMDB Page](https://www.imdb.com/name/nm4036043/?ref_=nv_sr_srsg_0_tt_0_nm_3_q_zachary%2520poorman)
  
 ![Github stats](https://github-readme-stats.vercel.app/api?username=OOCAZ&theme=tokyonight&showicons=true&rank_icon=github)
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OOCAZ&langs_count=5&theme=tokyonight&layout=donut-vertical)
