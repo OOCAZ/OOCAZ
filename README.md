@@ -3,7 +3,7 @@
 #### I love working on projects to help improve and change the 🌎.
 
 - 🔭 I’m currently working on ...
-    - Being the best Dev III ever at [Compassion International](https://www.compassion.com/)
+    - Being a great Dev III at [Compassion International](https://www.compassion.com/)
     - A bunch of Random projects 
     - Lots of React and Typescript projects on the regular.
 - 🌱 I’m currently learning ...
