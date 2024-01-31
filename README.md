@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on ...
     - Being a great Dev III at [Compassion International](https://www.compassion.com/)
     - A bunch of Random projects 
-    - Lots of React and Typescript projects on the regular.
+    - Lots of React / React Native and Typescript projects on the regular.
 - 🌱 I’m currently learning ...
     - More React Hooks
 - 💬 Ask me about
