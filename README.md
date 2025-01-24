@@ -7,7 +7,7 @@
     - A bunch of Random projects 
     - Lots of React / React Native and Typescript projects on the regular.
 - 🌱 I’m currently learning ...
-    - More React Hooks
+    - Working on completing my MBA in 6 months!
 - 💬 Ask me about
     - Just about anything I love to talk
 - 📫 How to reach me:
