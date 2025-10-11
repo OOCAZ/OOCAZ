@@ -1,5 +1,9 @@
 ### Hi there 👋 I'm Zac!
 
+#### Education
+- Master in Business Administration - WGU
+- Bachelors of Science in Computer Engineering - LeTourneau University
+
 #### I love working on projects to help improve and change the 🌎.
 
 - 🔭 I’m currently working on ...
@@ -7,7 +11,7 @@
     - A bunch of Random projects 
     - Lots of React / React Native and Typescript projects on the regular.
 - 🌱 I’m currently learning ...
-    - Working on completing my MBA in 6 months!
+    - Working on completing my MAsters of Computer Science with a concentration in Humand and Computer Interaction in 6 months!
 - 💬 Ask me about
     - Just about anything I love to talk
 - 📫 How to reach me:
