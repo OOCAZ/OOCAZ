@@ -2,7 +2,7 @@
 
 #### Education
 - Master in Business Administration - WGU
-- Bachelors of Science in Computer Engineering - LeTourneau University
+- Bachelor of Science in Computer Engineering - LeTourneau University
 
 #### I love working on projects to help improve and change the 🌎.
 
@@ -11,9 +11,9 @@
     - A bunch of Random projects 
     - Lots of React / React Native and Typescript projects on the regular.
 - 🌱 I’m currently learning ...
-    - Working on completing my Masters of Computer Science with a concentration in Humand and Computer Interaction in 6 months!
+    - Working on completing my Master's of Computer Science with a concentration in Human and Computer Interaction in 6 months!
 - 💬 Ask me about
-    - Just about anything I love to talk
+    - Just about anything, I love to talk
 - 📫 How to reach me:
     - [LinkedIn](https://www.linkedin.com/in/zac-poorman/)
 - ⚡ Fun fact: 
