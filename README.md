@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Zac!
 
 #### Education
+- Master of Computer Science, Human and Computer Interaction Concentration - WGU
 - Master in Business Administration - WGU
 - Bachelor of Science in Computer Engineering - LeTourneau University
 
