@@ -12,7 +12,9 @@
     - A bunch of Random projects 
     - Lots of React / React Native and Typescript projects on the regular.
 - 🌱 I’m currently learning ...
-    - Working on completing my Master's of Computer Science with a concentration in Human and Computer Interaction in 6 months!
+    - How to use useEffect hook properly
+    - Guitar
+    - Turkish
 - 💬 Ask me about
     - Just about anything, I love to talk
 - 📫 How to reach me:
